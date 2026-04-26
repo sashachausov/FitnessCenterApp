@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Application\bin\Debug\net8.0\FitnessCenter.Application.deps.json
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Application\bin\Debug\net8.0\FitnessCenter.Application.dll
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Application\bin\Debug\net8.0\FitnessCenter.Application.pdb
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Application\bin\Debug\net8.0\FitnessCenter.Domain.dll
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Application\bin\Debug\net8.0\FitnessCenter.Domain.pdb
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Application\obj\Debug\net8.0\FitnessCenter.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Application\obj\Debug\net8.0\FitnessCenter.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Application\obj\Debug\net8.0\FitnessCenter.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Application\obj\Debug\net8.0\FitnessCenter.Application.AssemblyInfo.cs
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Application\obj\Debug\net8.0\FitnessCenter.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Application\obj\Debug\net8.0\FitnessC.684379A9.Up2Date
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Application\obj\Debug\net8.0\FitnessCenter.Application.dll
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Application\obj\Debug\net8.0\refint\FitnessCenter.Application.dll
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Application\obj\Debug\net8.0\FitnessCenter.Application.pdb
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Application\obj\Debug\net8.0\ref\FitnessCenter.Application.dll
