@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Domain\bin\Release\net8.0\FitnessCenter.Domain.deps.json
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Domain\bin\Release\net8.0\FitnessCenter.Domain.dll
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Domain\bin\Release\net8.0\FitnessCenter.Domain.pdb
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Domain\obj\Release\net8.0\FitnessCenter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Domain\obj\Release\net8.0\FitnessCenter.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Domain\obj\Release\net8.0\FitnessCenter.Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Domain\obj\Release\net8.0\FitnessCenter.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Domain\obj\Release\net8.0\FitnessCenter.Domain.dll
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Domain\obj\Release\net8.0\refint\FitnessCenter.Domain.dll
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Domain\obj\Release\net8.0\FitnessCenter.Domain.pdb
+C:\Users\Admin\Desktop\FitnessCenterApp\WINFORM (APPLICATION)\FitnessCenter\FitnessCenter.Domain\obj\Release\net8.0\ref\FitnessCenter.Domain.dll
